@@ -21,4 +21,4 @@ do
     fi
 done
 
-echo "File size $1[B] is converted in Human Readable size to $file_size[$file_unit]."
+echo "$file_size[$file_unit]."
