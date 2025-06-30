@@ -3,7 +3,7 @@ File Size 2 Human Readable
 
 Scripting and technics to convert File Size in Human Readable
 
-```
+```bash
 #!/bin/bash
 #
 # Convert File Size to Human Readble value
